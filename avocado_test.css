@@ -51,6 +51,11 @@ h5 {
   color: #fff;
 }
 
+.recipe-background {
+  background-image: url('Benefits_Background.jpg');
+  color: #fff;
+}
+
 .link-btn {
   background-color: rgb(67, 163, 230);
   border: 2px solid rgba(0, 0, 0, 0.2);
