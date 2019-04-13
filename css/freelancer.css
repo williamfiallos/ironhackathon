@@ -8,6 +8,10 @@ body {
   font-family: 'Lato';
 }
 
+.header-img {
+  background-image: url('https://files.slack.com/files-pri/T02CQ4EN4-FHVGKQHB2/banner_background.jpg');
+}
+
 h1,
 h2,
 h3,
